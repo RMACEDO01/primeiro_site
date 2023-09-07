@@ -1,0 +1,18 @@
+body {
+    background: #020202ee;
+}
+
+h1{
+    color:rgba(236, 221, 11, 0.897)
+}
+
+p{
+    text-align :left;
+   color: rgb(245, 247, 248);
+}
+
+
+button{
+    text-align :center;
+}
+
